@@ -1,6 +1,6 @@
 # Ammon Gleason
 
-**ML & AI Engineer — helping companies automate through AI-driven workflows and intelligent systems**
+**ML & AI Engineer | AI Adoption Consultant — building intelligent systems and automating business workflows**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammon-gleason/)
 
