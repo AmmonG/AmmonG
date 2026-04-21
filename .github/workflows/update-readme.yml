@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every 6 hours
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -27,6 +27,4 @@ jobs:
         with:
           COMMIT_MSG: 'chore: update recent activity'
           MAX_LINES: 5
-          README_FILE: 'README.md'
-          ACTIVITY_PLACEHOLDER_START: '<!--RECENT_ACTIVITY:start-->'
-          ACTIVITY_PLACEHOLDER_END: '<!--RECENT_ACTIVITY:end-->'
+          GH_USERNAME: 'AmmonG'
