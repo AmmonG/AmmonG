@@ -48,11 +48,16 @@ I design and deploy AI automation systems that reduce manual overhead and scale 
 
 ## Education
 
-- Advanced Artificial Intelligence — CS 5955/6955
-- Multimodal LLM Agents — CS 6960
-- Data Management — CS 6964
-- Machine Learning — ML CS 6350
-- Artificial Intelligence — AI CS 6300
+**University of Utah** — M.S. Artificial Intelligence *(Aug 2025 – Apr 2027)*
+
+**Brigham Young University** — B.S. Computer Science, Machine Learning emphasis, minor in Mathematics *(Apr 2025)*
+
+---
+
+## Certifications
+
+- Supervised Machine Learning: Regression — IBM *(Oct 2025)*
+- Exploratory Data Analysis for Machine Learning — IBM *(Sep 2025)*
 
 ---
 
