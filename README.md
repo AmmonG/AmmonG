@@ -1,40 +1,41 @@
-# Hi, I'm Ammon
-### Machine Learning & AI Engineer | AI Automation Specialist | Workflow Architect
+# Ammon Gleason
+
+**ML & AI Engineer — helping companies automate through AI-driven workflows and intelligent systems**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammon-gleason/)
 
 ---
 
-## About Me
+## About
 
-I'm a Machine Learning & AI Engineer specializing in helping companies automate their processes through AI and well-defined intelligent workflows. I bridge the gap between cutting-edge ML research and real-world business impact — turning complex problems into scalable, automated solutions.
+I design and deploy AI automation systems that reduce manual overhead and scale operations. My work sits at the intersection of applied machine learning, agentic AI, and real-world business process engineering — translating complex research into production-ready solutions.
 
-- Designing and deploying AI-driven automation pipelines for business process optimization
-- Building agentic AI systems, LLM-powered tools, and multimodal applications
-- Graduate-level expertise in Advanced AI, Multimodal LLM Agents, Machine Learning, and Data Management
-- Defining intelligent workflows that reduce manual effort and scale operations
-- Always exploring the frontier of AI agents, RAG pipelines, and autonomous systems
+- Building LLM-powered agents, RAG pipelines, and multimodal AI applications
+- Defining intelligent workflows that connect AI capabilities to measurable business outcomes
+- Graduate-level background in Advanced AI, Multimodal LLM Agents, Machine Learning, and Data Management
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Languages:** Python, TypeScript, Swift
 
-**AI / ML & Automation**
+**AI / ML:** LLMs, LangChain, RAG, ChromaDB, Hugging Face, PyTorch
 
-**Infrastructure & Tools**
+**Automation & Infra:** GitHub Actions, Docker, REST APIs, Workflow Orchestration
 
 ---
 
-## Featured Projects
+## Projects
 
-| Project | Description | Tech |
+| Project | Description | Stack |
 |---|---|---|
 | canvas-ai-tutor | Local-first multimodal AI tutoring platform with RAG, agents, and LMS integration | Python, LLMs, ChromaDB |
-| facebook_marketplace_ai_agent | Autonomous AI agent for marketplace automation | Python, AI Agents |
-| Search_Drive | Concurrent multi-threaded file discovery & export tool | Python |
-| Stone-Haven-Homes | Real estate web application | TypeScript |
+| facebook_marketplace_ai_agent | Autonomous AI agent for marketplace task automation | Python, AI Agents |
+| [Search_Drive](https://github.com/AmmonG/Search_Drive) | Concurrent multi-threaded file discovery and export tool | Python |
+| [MassMessengerText](https://github.com/AmmonG/MassMessengerText) | macOS app for bulk SMS automation | Python, Swift |
 | OpenClaw_Docker | Containerized deployment infrastructure | TypeScript, Docker |
-| MassMessengerText | macOS app for bulk SMS automation | Python/Swift |
+| Stone-Haven-Homes | Real estate web application | TypeScript |
 
 ---
 
@@ -45,14 +46,14 @@ I'm a Machine Learning & AI Engineer specializing in helping companies automate 
 
 ---
 
-## Education & Coursework
+## Education
 
-- Advanced Artificial Intelligence (CS-5955/6955)
-- Multimodal LLM Agents (CS-6960)
-- Data Management (CS-6964)
-- Machine Learning (ML-CS6350)
-- Artificial Intelligence (AI-CS6300)
+- Advanced Artificial Intelligence — CS 5955/6955
+- Multimodal LLM Agents — CS 6960
+- Data Management — CS 6964
+- Machine Learning — ML CS 6350
+- Artificial Intelligence — AI CS 6300
 
 ---
 
-Open to new opportunities — let's build something intelligent together.
+Open to new opportunities. [Let's connect.](https://www.linkedin.com/in/ammon-gleason/)
