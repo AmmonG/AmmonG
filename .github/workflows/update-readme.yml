@@ -1,0 +1,32 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: Update README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with recent GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'chore: update recent activity'
+          MAX_LINES: 5
+          README_FILE: 'README.md'
+          ACTIVITY_PLACEHOLDER_START: '<!--RECENT_ACTIVITY:start-->'
+          ACTIVITY_PLACEHOLDER_END: '<!--RECENT_ACTIVITY:end-->'
