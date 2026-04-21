@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ammon 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · AI/ML Enthusiast · Full-Stack Developer</b>
+  <b>Machine Learning & AI Engineer · AI Automation Specialist · Workflow Architect</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ammong" target="_blank">
+  <a href="https://www.linkedin.com/in/ammon-gleason/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ammon@example.com">
@@ -15,15 +15,15 @@
 
 ---
 
-## 🚀 About Me
+## 🤖 About Me
 
-I'm a passionate software engineer with a strong foundation in **AI/ML**, **full-stack development**, and **systems engineering**. I love building tools that solve real problems — from AI-powered web apps to mobile applications and backend services.
+I'm a Machine Learning & AI Engineer specializing in **helping companies automate their processes** through AI and well-defined intelligent workflows. I bridge the gap between cutting-edge ML research and real-world business impact — turning complex problems into scalable, automated solutions.
 
-- 🎓 Graduate-level coursework in **Advanced AI**, **Multimodal LLM Agents**, **Machine Learning**, and **Data Management**
-- 🤖 Building intelligent applications using **LLMs**, **computer vision**, and **ML pipelines**
-- 🏗️ Contributing to production systems at **arctech-charge** and **Traverse Mountain Master Association**
-- 📱 Experience building cross-platform apps (iOS/Android) and web applications
-- 🌱 Always learning — currently exploring **agentic AI systems** and **multimodal models**
+- 🏗️ Designing and deploying **AI-driven automation pipelines** for business process optimization
+- 🧠 Building **agentic AI systems**, **LLM-powered tools**, and **multimodal applications**
+- 📊 Graduate-level expertise in **Advanced AI**, **Multimodal LLM Agents**, **Machine Learning**, and **Data Management**
+- 🔄 Defining intelligent **workflows** that reduce manual effort and scale operations
+- 🌱 Always exploring the frontier of **AI agents**, **RAG pipelines**, and **autonomous systems**
 
 ---
 
@@ -38,18 +38,19 @@ I'm a passionate software engineer with a strong foundation in **AI/ML**, **full
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**AI / ML**
+**AI / ML & Automation**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Web & Backend**
+**Infrastructure & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -60,10 +61,10 @@ I'm a passionate software engineer with a strong foundation in **AI/ML**, **full
 |--------|-------------|------|
 | 🤖 [canvas-ai-tutor](https://github.com/AmmonG/canvas-ai-tutor) | AI-powered tutoring assistant integrated with Canvas LMS | Python, LLMs |
 | 🛒 [facebook_marketplace_ai_agent](https://github.com/AmmonG/facebook_marketplace_ai_agent) | Autonomous AI agent for marketplace automation | Python, AI Agents |
-| 🔍 [Search_Drive](https://github.com/AmmonG/Search_Drive) | Intelligent file search and indexing tool | Python |
+| 🔍 [Search_Drive](https://github.com/AmmonG/Search_Drive) | Concurrent multi-threaded file discovery & export tool | Python |
 | 🏠 [Stone-Haven-Homes](https://github.com/AmmonG/Stone-Haven-Homes) | Real estate web application | TypeScript |
 | 🐳 [OpenClaw_Docker](https://github.com/AmmonG/OpenClaw_Docker) | Containerized deployment infrastructure | TypeScript, Docker |
-| 📱 [MassMessengerText](https://github.com/AmmonG/MassMessengerText) | Bulk SMS/messaging utility | Python |
+| 📱 [MassMessengerText](https://github.com/AmmonG/MassMessengerText) | macOS app for bulk SMS automation | Python/Swift |
 
 ---
 
@@ -87,5 +88,5 @@ I'm a passionate software engineer with a strong foundation in **AI/ML**, **full
 ---
 
 <p align="center">
-  <i>Open to new opportunities — feel free to reach out!</i>
+  <i>Open to new opportunities — let's build something intelligent together!</i>
 </p>
