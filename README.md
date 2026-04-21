@@ -18,7 +18,7 @@ I design and deploy AI automation systems that reduce manual overhead and scale 
 
 ## Tech Stack
 
-**Languages:** Python, TypeScript, Swift
+**Languages:** Python, C++, C, Java, TypeScript, Swift
 
 **AI / ML:** LLMs, LangChain, RAG, ChromaDB, Hugging Face, PyTorch
 
