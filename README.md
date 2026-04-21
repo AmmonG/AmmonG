@@ -79,8 +79,8 @@ I'm a Machine Learning & AI Engineer specializing in **helping companies automat
 
 ## Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
