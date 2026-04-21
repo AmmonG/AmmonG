@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ammon 👋</h1>
+<h1 align="center">Hi, I'm Ammon</h1>
 
 <p align="center">
-  <b>Machine Learning & AI Engineer · AI Automation Specialist · Workflow Architect</b>
+  <b>Machine Learning & AI Engineer &nbsp;|&nbsp; AI Automation Specialist &nbsp;|&nbsp; Workflow Architect</b>
 </p>
 
 <p align="center">
@@ -15,19 +15,19 @@
 
 ---
 
-## 🤖 About Me
+## About Me
 
 I'm a Machine Learning & AI Engineer specializing in **helping companies automate their processes** through AI and well-defined intelligent workflows. I bridge the gap between cutting-edge ML research and real-world business impact — turning complex problems into scalable, automated solutions.
 
-- 🏗️ Designing and deploying **AI-driven automation pipelines** for business process optimization
-- 🧠 Building **agentic AI systems**, **LLM-powered tools**, and **multimodal applications**
-- 📊 Graduate-level expertise in **Advanced AI**, **Multimodal LLM Agents**, **Machine Learning**, and **Data Management**
-- 🔄 Defining intelligent **workflows** that reduce manual effort and scale operations
-- 🌱 Always exploring the frontier of **AI agents**, **RAG pipelines**, and **autonomous systems**
+- Designing and deploying **AI-driven automation pipelines** for business process optimization
+- Building **agentic AI systems**, **LLM-powered tools**, and **multimodal applications**
+- Graduate-level expertise in **Advanced AI**, **Multimodal LLM Agents**, **Machine Learning**, and **Data Management**
+- Defining intelligent **workflows** that reduce manual effort and scale operations
+- Always exploring the frontier of **AI agents**, **RAG pipelines**, and **autonomous systems**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -55,20 +55,20 @@ I'm a Machine Learning & AI Engineer specializing in **helping companies automat
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🤖 [canvas-ai-tutor](https://github.com/AmmonG/canvas-ai-tutor) | AI-powered tutoring assistant integrated with Canvas LMS | Python, LLMs |
-| 🛒 [facebook_marketplace_ai_agent](https://github.com/AmmonG/facebook_marketplace_ai_agent) | Autonomous AI agent for marketplace automation | Python, AI Agents |
-| 🔍 [Search_Drive](https://github.com/AmmonG/Search_Drive) | Concurrent multi-threaded file discovery & export tool | Python |
-| 🏠 [Stone-Haven-Homes](https://github.com/AmmonG/Stone-Haven-Homes) | Real estate web application | TypeScript |
-| 🐳 [OpenClaw_Docker](https://github.com/AmmonG/OpenClaw_Docker) | Containerized deployment infrastructure | TypeScript, Docker |
-| 📱 [MassMessengerText](https://github.com/AmmonG/MassMessengerText) | macOS app for bulk SMS automation | Python/Swift |
+| [canvas-ai-tutor](https://github.com/AmmonG/canvas-ai-tutor) | Local-first multimodal AI tutoring platform with RAG, agents, and LMS integration | Python, LLMs, ChromaDB |
+| [facebook_marketplace_ai_agent](https://github.com/AmmonG/facebook_marketplace_ai_agent) | Autonomous AI agent for marketplace automation | Python, AI Agents |
+| [Search_Drive](https://github.com/AmmonG/Search_Drive) | Concurrent multi-threaded file discovery & export tool | Python |
+| [Stone-Haven-Homes](https://github.com/AmmonG/Stone-Haven-Homes) | Real estate web application | TypeScript |
+| [OpenClaw_Docker](https://github.com/AmmonG/OpenClaw_Docker) | Containerized deployment infrastructure | TypeScript, Docker |
+| [MassMessengerText](https://github.com/AmmonG/MassMessengerText) | macOS app for bulk SMS automation | Python/Swift |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmmonG&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -77,7 +77,14 @@ I'm a Machine Learning & AI Engineer specializing in **helping companies automat
 
 ---
 
-## 🎓 Education & Coursework
+## Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+## Education & Coursework
 
 - **Advanced Artificial Intelligence** (CS-5955/6955)
 - **Multimodal LLM Agents** (CS-6960)
@@ -88,5 +95,5 @@ I'm a Machine Learning & AI Engineer specializing in **helping companies automat
 ---
 
 <p align="center">
-  <i>Open to new opportunities — let's build something intelligent together!</i>
+  <i>Open to new opportunities — let's build something intelligent together.</i>
 </p>
