@@ -31,6 +31,8 @@ I design and deploy AI automation systems that reduce manual overhead and scale 
 | Project | Description | Stack |
 |---|---|---|
 | canvas-ai-tutor | Local-first multimodal AI tutoring platform with RAG, agents, and LMS integration | Python, LLMs, ChromaDB |
+| GameHub | A game hub that you can create and add games for family and friends to play on the big screen | TypeScript, CSS |
+| G8way | Connecting clients and their computers to their IT professional | Rust, TypeScript, etc... |
 | facebook_marketplace_ai_agent | Autonomous AI agent for marketplace task automation | Python, AI Agents |
 | [Search_Drive](https://github.com/AmmonG/Search_Drive) | Concurrent multi-threaded file discovery and export tool | Python |
 | [MassMessengerText](https://github.com/AmmonG/MassMessengerText) | macOS app for bulk SMS automation | Python, Swift |
